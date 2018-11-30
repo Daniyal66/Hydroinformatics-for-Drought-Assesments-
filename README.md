@@ -1,1 +1,1 @@
-# Hydroinformatics-for-Drought-Assesments-
+# Hydroinformatics-for-Drought-Assessment-
